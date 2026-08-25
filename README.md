@@ -14,6 +14,12 @@ I work at the intersection of **commercial strategy, growth, and applied AI**. M
 
 ## Featured work
 
+### [AI Pricing & ROI Lab](https://github.com/Adaobio/Ai-pricing-roi-lab)
+
+An interactive Streamlit decision tool for modeling AI unit economics, pricing, gross margin, customer ROI, CAC payback, break-even volume, and assumption sensitivity.
+
+**What it demonstrates:** commercially rigorous AI business-case modeling, transparent assumptions, flat-versus-consumption pricing analysis, best/base/worst scenarios, human-review economics, and an interactive tornado chart. All outputs are explicitly labeled **Modeled**.
+
 ### [Recursive AI Content Engine](https://github.com/Adaobio/SaaS-tools)
 
 A Next.js and TypeScript prototype for planning and generating long-form content through recursive prompt chaining while retaining continuity across chapters.
@@ -32,9 +38,8 @@ My central portfolio and case-study hub for commercially framed AI work.
 |---|---|---|
 | **AI Account Intelligence Engine** | Sales teams spend time researching and prioritizing the wrong accounts | Explainable ICP scoring, sourced briefs, uncertainty routing, evaluation results, and CRM-ready output |
 | **Governed Discovery Copilot** | Qualification and follow-up are inconsistent, while autonomous communication creates risk | Fact-versus-inference extraction, human approval, failure tests, coaching scorecard, cost, and latency |
-| **AI Pricing & ROI Lab** | AI deals are difficult to evaluate when usage, model cost, adoption, and review effort are uncertain | Unit economics, break-even analysis, pricing scenarios, assumption sensitivity, and an executive recommendation |
 
-These are listed as **in development**, not as completed or deployed products.
+The projects in this section are listed as **in development**, not as completed or deployed products.
 
 ## How I evaluate AI systems
 
